@@ -21,7 +21,7 @@ To run the application follow the steps:
 1. **Clone the repository**:
    ```shell
    git clone https://github.com/Tchorzu/react-calculator
-   cd todo-list-react
+   cd react-calculator
    ```
 
 2. **Install dependencies**:
